@@ -1,0 +1,2 @@
+# Barra_progresso
+O projeto constrói uma barra de progresso marcando os passos conforme clica nos botões próximo e desmarca quando clica no botão anterior se chagar nos extremos no final ou no início o botão é desabilitado.
